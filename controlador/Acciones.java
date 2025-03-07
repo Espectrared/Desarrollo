@@ -18,7 +18,7 @@ public class Acciones
     {
         if(limit >= size)
         {
-            System.out.println("\nEl arreglo se ha llenado");
+            System.out.println("\nEl arreglo se ha llenado isaac");
         }
         else
         {
